@@ -53,6 +53,6 @@ This aims to improve user experience and data handling for HR teams or internal 
 
 ```bash
 git clone https://github.com/Vipul-sh01/employee-list-app.git
-cd employee-list-app
+cd employee
 flutter pub get
 flutter run
